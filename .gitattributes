@@ -22,3 +22,5 @@
 # Specific line endings for specific file types
 *.sh text eol=lf
 *.bat text eol=crlf
+
+* text=auto
