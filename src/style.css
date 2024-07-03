@@ -56,7 +56,7 @@ main{
 li::marker{
   color: #61DAFB;
   font-size: 40px;
-  content: url(/src/assets/react.svg)
+  content: url(/assets/react.svg)
 }
 footer{
   text-align: center;
